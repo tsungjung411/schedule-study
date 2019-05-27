@@ -3,6 +3,7 @@
 - [筆記整理](https://hackmd.io)
   - [常用語法介紹](https://www.playpcesor.com/2016/10/hackmd-hackpad-markdown.html)
 
+<br><hr>
 
 ## 目標設定的重要性：
 - [如何設定目標？哈佛大學研究：一個小技巧，比別人成功10倍！](https://rich01.com/201710-2/)
@@ -15,6 +16,7 @@
     - **他們生活在社會的底層，生活上過的不如意，且常常抱怨對社會的不滿**。
   - 如果想把英文學好，你需要明確地設定目標，而且是**可量化的目標**
 
+<br><hr>
 
 ## [關於閱讀書籍(/文章)](https://www.managertoday.com.tw/books/view/56549)
 - **要有輸出**
