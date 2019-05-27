@@ -6,4 +6,8 @@
 
 ## 目標設定的重要性：
 - [如何設定目標？哈佛大學研究：一個小技巧，比別人成功10倍！](https://rich01.com/201710-2/)
+  <br>![](https://i0.wp.com/img.rich01.com/uploads/20171206115150_39.jpg)
+  <br>![](https://i0.wp.com/img.rich01.com/uploads/20171206115150_81.jpg)
+  <br><br>
+  
 - [為什麼英文總是學不好？因為你已經陷入學英文的四大迷思之中，無法自拔](https://etalkingenglish.com/你也有嗎？學英文的四大迷思/)
